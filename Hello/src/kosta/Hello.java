@@ -2,16 +2,11 @@ package kosta;
 
 public class Hello {
 	public static void main(String[] args) {
-		System.out.println("bbbbbbb");
-		System.out.println("a");
-		
-		System.out.println("aaaaaa");
-		
-		System.out.println("zzzzz");
-	
-		
-		
-		System.out.println("a bradddnch create");
+
+		System.out.println("w branch 1");
+		System.out.println("w branch 2");
+		System.out.println("w branch 3");
+		System.out.println("a branch 1");
 	
 	}
 }
