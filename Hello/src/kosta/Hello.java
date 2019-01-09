@@ -5,6 +5,6 @@ public class Hello {
 		System.out.println("w branch 1");
 		System.out.println("w branch 2");
 		System.out.println("w branch 3");
-	
+		System.out.println("master branch 1");
 	}
 }
